@@ -2,7 +2,7 @@
 ## osm0sis @ xda-developers
 
 properties() { '
-kernel.string=WhiteKernel-Blossom
+kernel.string=White Kernel Project - Blossom || Infinity
 do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=0
