@@ -2,7 +2,7 @@
 ## osm0sis @ xda-developers
 
 properties() { '
-kernel.string=White Kernel Project - Blossom || Abaporu Release
+kernel.string=White Kernel Project - Blossom || Stable Release
 do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=0
